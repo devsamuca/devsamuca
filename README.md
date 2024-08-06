@@ -32,7 +32,7 @@
 
 </div>
 
-<h1 align="left"> Eu estou estudando... 🧩</h1>
+<h1 align="left"> Eu estou estudando... 📚</h1>
 
 <div align="left">
 
@@ -46,11 +46,11 @@
 </div>
 
 <div>
-  <h1 align="left">Portfólio</h1>
+  <h1 align="left">Portfólio 🛠</h1>
 
 <div align="left">
   
-• [Hello World!](https://github.com/devsamuca/Hello-Word.git)
+• [Hello World!](https://devsamuca.github.io/Hello-Word/)
 <br>
 • [Password Generator](https://devsamuca.github.io/Password-Generator/)
   
