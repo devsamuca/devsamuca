@@ -52,7 +52,7 @@
   
 • [Hello World!](https://github.com/devsamuca/Hello-Word.git)
 <br>
-• [Password Generator](https://github.com/devsamuca/Password-Generator.git)
+• [Password Generator](https://devsamuca.github.io/Password-Generator/)
   
 </div>
 
