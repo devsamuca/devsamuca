@@ -52,6 +52,8 @@
 • [Hello World!](https://devsamuca.github.io/Hello-Word/)
 <br>
 • [Password Generator](https://devsamuca.github.io/Password-Generator/)
+<br>
+• [Clock](https://devsamuca.github.io/Clock/)
   
 </div>
 
