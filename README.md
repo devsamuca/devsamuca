@@ -7,7 +7,7 @@
 
 <p align="left">👩‍💻 Atualmente eu trabalho como Analista de Suporte Computacional na Irmandade da Santa Casa de Londrina.</p>
 
-<p align="left">🥊 Sou lutador de Muay Thai da academia Team Nogueira.</p>
+<p align="left">🥊 Sou lutador de MMA da academia Team Nogueira.</p>
 
 <p align="left">🕹️ Gamer no tempo livre.</p>
 
