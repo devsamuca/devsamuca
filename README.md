@@ -53,7 +53,7 @@
 <br>
 • [Password Generator](https://devsamuca.github.io/Password-Generator/)
 <br>
-• [Clock](https://devsamuca.github.io/Clock/)
+• [Clock](https://devsamuca.github.io/TimerLove/)
   
 </div>
 
