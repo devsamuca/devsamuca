@@ -54,7 +54,8 @@
 • [Password Generator](https://devsamuca.github.io/Password-Generator/)
 <br>
 • [TimerLove](https://devsamuca.github.io/TimerLove/)
-  
+<br>
+• [Curriculo](https://devsamuca.github.io/Curriculo/)
 </div>
 
 </div>
