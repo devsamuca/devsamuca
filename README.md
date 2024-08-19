@@ -71,6 +71,17 @@
 
 </div>
 
-<div align="left"> <img align="center" src="https://media.tenor.com/Gh3LKX9HMFkAAAAi/hollow-knight-knight.gif"> </div>
-
-# ![snake gif](https://github.com/devsamuca/devsamuca/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/devsamuca/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/devsamuca/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/devsamuca/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
