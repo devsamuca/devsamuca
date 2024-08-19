@@ -73,4 +73,4 @@
 
 <div align="left"> <img align="center" src="https://media.tenor.com/Gh3LKX9HMFkAAAAi/hollow-knight-knight.gif"> </div>
 
-# ![snake gif](https://github.com/your-user-name/devsamuca/blob/output/github-contribution-grid-snake.gif)
+# ![snake gif](https://github.com/devsamuca/devsamuca/blob/output/github-contribution-grid-snake.gif)
