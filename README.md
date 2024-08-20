@@ -13,7 +13,7 @@
 
 <h1 align="left"> Card's  <h1>
 
-<div style="display: flex; justify-content: space-around">
+<div style="display: flex; justify-content: space-between">
 
 <div>
 
@@ -23,7 +23,7 @@
 
 <div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsamuca&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsamuca&layout=compact)
 
 </div>
 </div>
