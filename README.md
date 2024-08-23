@@ -71,8 +71,6 @@
 <br>
 • [Password Generator](https://devsamuca.github.io/Password-Generator/)
 <br>
-• [TimerLove](https://devsamuca.github.io/TimerLove/)
-<br>
 • [Curriculo](https://devsamuca.github.io/Curriculo/)
 <br>
 • [Password Generator Python](https://github.com/devsamuca/Gera-Senha-Python.git)
