@@ -3,11 +3,11 @@
 
 <h1 align="left">Sobre mim! 🌹</h1>
 
-<p align="left">🎓 Sou aluno do curso de Engenharia de SoftWare da Universidade Filadélfia. </p>
+<p align="left">🎓 Aluno do curso de Engenharia de SoftWare da Universidade Filadélfia. </p>
 
-<p align="left">👩‍💻 Atualmente eu trabalho como Analista de Suporte Computacional na Irmandade da Santa Casa de Londrina.</p>
+<p align="left">👩‍💻 Atualmente trabalho como Analista de Suporte Computacional na Irmandade da Santa Casa de Londrina.</p>
 
-<p align="left">🥊 Sou lutador de MMA da academia Team Nogueira.</p>
+<p align="left">🥊 Lutador de MMA da academia Team Nogueira.</p>
 
 <p align="left">🕹️ Gamer no tempo livre.</p>
 
