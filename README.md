@@ -72,8 +72,6 @@
 • [Curriculo](https://devsamuca.github.io/Curriculo/)
 <br>
 • [Password Generator Python](https://github.com/devsamuca/Gera-Senha-Python.git)
-<br>
-• [CltVersion](https://devsamuca.github.io/cltversion/)
 
 </div>
 
