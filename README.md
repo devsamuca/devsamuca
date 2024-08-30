@@ -67,8 +67,6 @@
 
 <div align="left">
   
-• [Hello World!](https://devsamuca.github.io/Hello-Word/)
-<br>
 • [Password Generator](https://devsamuca.github.io/Password-Generator/)
 <br>
 • [Curriculo](https://devsamuca.github.io/Curriculo/)
