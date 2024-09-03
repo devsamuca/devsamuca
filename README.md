@@ -63,6 +63,8 @@
 • [Password Generator Python](https://github.com/devsamuca/Gera-Senha-Python.git)
 <br>
 • [Curriculo](https://devsamuca.github.io/Curriculo/)
+<br>
+• [Calculadora Web](https://devsamuca.github.io/Calculadora/)
 
 </div>
 
