@@ -1,15 +1,15 @@
 
-<h1 align="left">Oi, Me chamo Samuel Souza 👋</h1>
+<h1 align="left">Hi, my name is Samuel Souza 👋</h1>
 
-<h1 align="left">Sobre mim! 🌹</h1>
+<h1 align="left">About me! 🌹</h1>
 
-<p align="left">🎓 Aluno do curso de Engenharia de SoftWare da Universidade Filadélfia. </p>
+<p align="left">🎓 Student of the Software Engineering course at the University of Philadelphia. </p>
 
-<p align="left">👩‍💻 Atualmente trabalho como Analista de Suporte Computacional na Irmandade da Santa Casa de Londrina.</p>
+<p align="left">👩‍💻 I currently work as a Computer Support Analyst at the Irmandade da Santa Casa de Londrina.</p>
 
-<p align="left">🥊 Lutador da academia Team Nogueira.</p>
+<p align="left">🥊 MMA fighter at Team Nogueira gym.</p>
 
-<p align="left">🕹️ Gamer no tempo livre.</p>
+<p align="left">🕹️Gamer in free time.</p>
 
 <h1 align="left"> Card's 📊 <h1>
 
@@ -18,7 +18,7 @@
 </div>
 
 ###
-<h1 align="left">Tecnologias 🔎 </h1>
+<h1 align="left">Tecnology 🔎 </h1>
 
 <div align="left">
 
@@ -29,7 +29,7 @@
 
 </div>
 
-<h1 align="left">Ferramentas 🔧 </h1>
+<h1 align="left">Tools 🔧 </h1>
 
 <div align="left">
 
@@ -40,7 +40,7 @@
 ![Trelo](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 </div>
 
-<h1 align="left"> Eu estou estudando... 📚</h1>
+<h1 align="left"> I am studying... 📚</h1>
 
 <div align="left">
 
@@ -70,7 +70,7 @@
 
 </div>
 
-<h1 align="left"> Entre em contato comigo! 📭 </h1>
+<h1 align="left"> Contact Me 📭 </h1>
 
 <div align="left">
 
