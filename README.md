@@ -44,7 +44,7 @@
 
 
 <div>
-  <h1 align="left">Portfólio 🛠</h1>
+  <h1 align="left">Projects 🗃 </h1>
 
 <div align="left">
   
