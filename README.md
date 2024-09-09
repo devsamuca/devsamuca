@@ -2,7 +2,7 @@
 <h2 align="center">Hi, my name is Samuel Souza 👋</h2>
 
 <div align="left">
-My name is Samuel, I'm 19 years old, I currently work as a network analyst and I'm studying Software Engineering at Philadelphia University. I'm also an MMA fighter and a gamer in my spare time.
+I'm 19 years old, I currently work as a network analyst and I'm studying Software Engineering at Philadelphia University. I'm also an MMA fighter and a gamer in my spare time.
 </div>
 
 
@@ -25,8 +25,8 @@ My name is Samuel, I'm 19 years old, I currently work as a network analyst and I
 <h2>GitHub Stats 🏅</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=devsamuca&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="110" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsamuca&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="110" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=devsamuca&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsamuca&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="120" alt="languages graph"  />
 
 </div>
 
