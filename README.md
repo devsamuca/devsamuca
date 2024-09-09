@@ -2,7 +2,8 @@
 <h2 align="left">Hi, my name is Samuel Souza 👋</h2>
 
 <div align="left">
-I'm 19 years old, I currently work as a network analyst and I'm studying Software Engineering at Philadelphia University. I'm also an MMA fighter and a gamer in my spare time.
+I'm 19 years old, I currently work as a network analyst and 
+  <br> I'm studying Software Engineering at Philadelphia University. <br> I'm also an MMA fighter and a gamer in my spare time.
 </div>
 
 
