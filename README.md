@@ -3,7 +3,7 @@
 
 <div align="left">
 I'm 19 years old, I currently work as a network analyst and 
-  <br> I'm studying Software Engineering at Philadelphia University. <br> I'm also an MMA fighter and a gamer in my spare time.
+  <br> I'm studying Software Engineering at Philadelphia University.
 </div>
 
 
