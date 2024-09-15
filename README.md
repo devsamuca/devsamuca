@@ -18,7 +18,7 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/452091/python.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/353924/java.svg" height="30" alt="java logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/349402/html5.svg" height="30" alt="html5 logo"  />
   <img width="12" />
