@@ -1,9 +1,14 @@
 
-<h2 align="left">Hi, my name is Samuel Souza 👋</h2>
+<h2 align="left">Hi, my name is <a href="https://beacons.ai/devsamuca">Samuel Souza</a> 👋</h2>
 
 <div align="left">
-I'm 19 years old, I currently work as a network analyst and 
-  <br> I'm studying Software Engineering at Philadelphia University.
+👦 - About Me <br>
+  👋 - My name is Samuel Souza, I'm 19 years old. <br>
+  🎓 - Studying Software Engineering at the <a href="https://unifil.br/" style="text-decoration: none;">University of Philadelphia</a>
+ <br>
+  💼 - I work as a Computer Analyst at <a href="https://www.iscal.com.br/">Iscal.</a>
+  
+  
 </div>
 
 
@@ -41,10 +46,11 @@ I'm 19 years old, I currently work as a network analyst and
 <h2>Contact 📬</h2>
 <div align="left">
 
-<a align="center" href="https://www.youtube.com/channel/UCvLSz9dC_VzHl2hpKuBYTKg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="20px" target="_blank"></a>
-<a align="center" href="https://discord.gg/jETY8m2n6g" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="20px" target="_blank"></a>
-<a align="center" href="https://www.instagram.com/samuca.io/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="20px" target="_blank"></a>
-<a align="center" href="https://www.linkedin.com/in/devsamuca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px" target="_blank"></a>   
+<a align="center" href="https://www.youtube.com/channel/UCvLSz9dC_VzHl2hpKuBYTKg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25px" target="_blank"></a>
+<a align="center" href="https://discord.gg/jETY8m2n6g" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="25px" target="_blank"></a>
+<a align="center" href="https://www.instagram.com/samuca.io/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25px" target="_blank"></a>
+<a align="center" href="https://www.twitch.tv/isamucaio"><img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" height="25px" target="_blank"></a>
+<a align="center" href="https://www.linkedin.com/in/devsamuca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" target="_blank"></a>   
 
 </div>
 
