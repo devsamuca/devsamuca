@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi, my name is <a href="https://beacons.ai/devsamuca">Samuel Souza</a> 👋</h2>
+<h2 align="left">Hi, my name is <a href="https://beacons.ai/iosamuca">Samuel Souza</a> 👋</h2>
 
 <div align="left">
   👦 - My name is Samuel Souza and I'm 20 years old. <br>
