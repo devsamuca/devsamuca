@@ -2,7 +2,8 @@
 <h2 align="left">Hi, my name is <a href="https://beacons.ai/iosamuca">Samuel Souza</a> 👋</h2>
 
 <div align="left">
-  👦 - My name is Samuel Souza and I'm 20 years old. <br>
+ 
+  👦 - My name is Samuel Souza, I'm 20 years old and I'm a student passionate about technology. <br>
   🎓 - Studying Software Engineering at the <a href="https://unifil.br/" style="text-decoration: none;">University of Philadelphia</a>
  <br>
   💼 - I work as a Computer Analyst at <a href="https://www.iscal.com.br/">Iscal.</a>
