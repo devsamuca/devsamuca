@@ -6,7 +6,7 @@
   👦 - My name is Samuel Souza, I'm 20 years old and I'm a student passionate about technology. <br>
   🎓 - Studying Software Engineering at the <a href="https://unifil.br/" style="text-decoration: none;">University of Philadelphia</a>
  <br>
-  💼 - I work as a Computer Analyst at <a href="https://www.iscal.com.br/">Iscal.</a>
+  💼 - I work as a Service Desk at <a href="https://www.iscal.com.br/">Iscal.</a>
   
   
 </div>
