@@ -43,7 +43,6 @@
 ## Status do GitHub 🏅
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
- <img src="https://github-readme-stats.vercel.app/api?username=devsamuelsouza&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=false&locale=pt-br" height="150" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsamuelsouza&layout=compact&langs_count=5&theme=transparent&hide_border=false" height="150" />
 </div>
 
