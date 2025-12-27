@@ -13,7 +13,7 @@
  <img src="https://cdn.iconscout.com/icon/free/png-256/free-uikit-icon-svg-download-png-3030266.png?f=webp" height="40">
  <img src="https://www.svgrepo.com/show/349419/javascript.svg" height="35" />   
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" height="35">
-<img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="35">
+ <img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="35">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" height="35" />
@@ -22,9 +22,9 @@
  <img src="https://blazeofcode.wordpress.com/wp-content/uploads/2019/04/brandblazor_nohalo_1000x-1.png" height="40" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png" height="40">
- <img src="https://pngimg.com/d/mysql_PNG23.png" height="40">
+ <img src="https://mundophp.com.br/wp-content/uploads/2024/04/mysql.png" height="40">
  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" height="38">
-  <img src="https://cdn.freebiesupply.com/images/large/2x/linux-logo-png-transparent.png" height="42" />
+ <img src="https://cdn.freebiesupply.com/images/large/2x/linux-logo-png-transparent.png" height="42" />
 </div>
 
 ---
@@ -50,7 +50,7 @@
 </a>
 
 <a href="mailto:silva.samueldev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
