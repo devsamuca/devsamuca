@@ -1,6 +1,6 @@
 <h2 align="left">Olá, meu nome é Samuel Souza</a> 👋</h2>
 
-<p>🌱 Me tornando um desenvolvedor melhor a cara dia.</p>
+<p>🌱 Me tornando um desenvolvedor melhor a cada dia.</p>
 
 ---
 
