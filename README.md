@@ -10,7 +10,7 @@
  <img src="https://www.svgrepo.com/show/349402/html5.svg" height="35" />
  <img src="https://www.svgrepo.com/show/349330/css3.svg" height="35" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
- <img src="https://cdn.iconscout.com/icon/free/png-256/free-uikit-icon-svg-download-png-3030266.png?f=webp" height="40">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" height="30">
  <img src="https://www.svgrepo.com/show/349419/javascript.svg" height="35" />   
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" height="35">
  <img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="35">
