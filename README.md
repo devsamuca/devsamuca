@@ -9,18 +9,19 @@
 <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
  <img src="https://www.svgrepo.com/show/349402/html5.svg" height="35" />
  <img src="https://www.svgrepo.com/show/349330/css3.svg" height="35" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" height="30">
- <img src="https://www.svgrepo.com/show/349419/javascript.svg" height="35" />   
- <img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="35">
+ <img src="https://www.svgrepo.com/show/349419/javascript.svg" height="35" /> 
+ <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" height="35" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height="35" />
+ <img src="https://icones.pro/wp-content/uploads/2022/07/icone-angulaire-rouge.png" height="36" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png" height="32">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="37" alt="dotnetcore logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="40" />
- <img src="https://blazeofcode.wordpress.com/wp-content/uploads/2019/04/brandblazor_nohalo_1000x-1.png" height="40" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png" height="40">
  <img src="https://mundophp.com.br/wp-content/uploads/2024/04/mysql.png" height="40">
+  <img src="https://staging.svgrepo.com/show/355152/oracle.svg" height="40">
  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" height="38">
  <img src="https://cdn.freebiesupply.com/images/large/2x/linux-logo-png-transparent.png" height="42" />
 </div>
